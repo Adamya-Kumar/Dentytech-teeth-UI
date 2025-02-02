@@ -1,4 +1,4 @@
-# StudySync
+# Dentytech
 
 ### 📌 Description
 Dentytech is a teeth product selling website built to test and improve UI/UX design skills. This project focuses on creating a visually appealing and user-friendly interface.
